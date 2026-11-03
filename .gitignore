@@ -1,0 +1,4 @@
+data/*.XPT
+__pycache__/
+.vscode/
+*.pyc
